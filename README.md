@@ -7,12 +7,12 @@ This repository was launched to extend the learning to you!
 To start your learning, download the notebooks and upload them on [Google Colab](https://research.google.com/colaboratory/).
 
 ## 📄 Contents
-This repository contains two types of [Jupyter Notebooks](https://jupyter.org/): Lesson and Practice
+This repository contains two types of [Jupyter Notebooks](https://jupyter.org/): Lesson and Practice.
 
 ### Lesson + Practice 1️⃣
 Notebooks:
-- `Lesson 1.ipynb`
-- `Practice 1.ipynb`
+- [`Lesson 1.ipynb`](https://github.com/xyntechx/Code-for-Hope/blob/main/Lessons/Lesson%201.ipynb)
+- [`Practice 1.ipynb`](https://github.com/xyntechx/Code-for-Hope/blob/main/Practices/Practice%201.ipynb)
 
 Coverage:
 - What is programming?
@@ -21,8 +21,8 @@ Coverage:
 
 ### Lesson + Practice 2️⃣
 Notebooks:
-- `Lesson 2.ipynb`
-- `Practice 2.ipynb`
+- [`Lesson 2.ipynb`](https://github.com/xyntechx/Code-for-Hope/blob/main/Lessons/Lesson%202.ipynb)
+- [`Practice 2.ipynb`](https://github.com/xyntechx/Code-for-Hope/blob/main/Practices/Practice%202.ipynb)
 
 Coverage:
 - What can I do with strings?
@@ -31,8 +31,8 @@ Coverage:
 
 ### Lesson + Practice 3️⃣
 Notebooks:
-- `Lesson 3.ipynb`
-- `Practice 3.ipynb`
+- [`Lesson 3.ipynb`](https://github.com/xyntechx/Code-for-Hope/blob/main/Lessons/Lesson%203.ipynb)
+- [`Practice 3.ipynb`](https://github.com/xyntechx/Code-for-Hope/blob/main/Practices/Practice%203.ipynb)
 
 Coverage:
 - What are functions?
@@ -41,8 +41,8 @@ Coverage:
 
 ### Lesson + Practice 4️⃣
 Notebooks:
-- `Lesson 4.ipynb`
-- `Practice 4.ipynb`
+- [`Lesson 4.ipynb`](https://github.com/xyntechx/Code-for-Hope/blob/main/Lessons/Lesson%204.ipynb)
+- [`Practice 4.ipynb`](https://github.com/xyntechx/Code-for-Hope/blob/main/Practices/Practice%204.ipynb)
 
 Coverage:
 - What is Object Oriented Programming (OOP)?
