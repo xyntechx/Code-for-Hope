@@ -6,7 +6,7 @@ This repository was launched to extend the learning to you!
 ## 👀 Usage
 To start your learning, download the notebooks and upload them on [Google Colab](https://research.google.com/colaboratory/).
 
-## 📄 Contents
+## 📚 Content
 This repository contains two types of [Jupyter Notebooks](https://jupyter.org/): Lesson and Practice.
 
 ### Lesson + Practice 1️⃣
