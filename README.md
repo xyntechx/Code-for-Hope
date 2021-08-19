@@ -1,6 +1,11 @@
 # Code for Hope
 Code for Hope is a service-learning group consisting of JC1 students from Raffles Institution passionate about teaching programming to underprivileged students from Primary 4 to Secondary 2. This is because we believe in the relevance of programming in today’s digital world as well as ensuring a fair playing field independent of socio-economic status for all students.
 
+Learn Python fundamentals today using the notebooks in this repository!
+
+## 👀 Usage
+To start your learning, download the notebooks and upload them on [Google Colab](https://research.google.com/colaboratory/).
+
 ## 📄 Contents
 This repository contains two types of [Jupyter Notebooks](https://jupyter.org/): Lesson and Practice
 
