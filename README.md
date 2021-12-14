@@ -3,7 +3,7 @@ Code for Hope is a service-learning group consisting of JC1 students from Raffle
 
 This repository was launched to extend the learning to you!
 
-## 👀 Usage
+## 🔨 Usage
 To start your learning, download the notebooks and upload them on [Google Colab](https://research.google.com/colaboratory/).
 
 ## 📚 Content
