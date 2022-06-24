@@ -1,5 +1,5 @@
 # Code for Hope
-Code for Hope is a service-learning group consisting of JC1 students from Raffles Institution passionate about teaching programming to underprivileged students. This is because we believe in the relevance of programming in today’s digital world as well as ensuring a fair playing field independent of socio-economic status for all students. So far, we have collaborated with 5 CDAC centres and taught 60 students in Singapore! All in all, our mission is to tackle income inequality in our society by teaching Python.
+A self-initiated service-learning project created by myself and two other schoolmates, Code for Hope was started because we wanted to create a fair playing field independent of socio-economic status for all students, ultimately tackling income inequality. As programming is a relevant and important skill in today's digital era, we hope that by introducing programming to young students, they will be equipped with the useful skill of programming and thus be better prepared for the future! In its 2021-2022 run, Code for Hope taught 200 students, collaborated with 14 CDAC centres, and recruited 25 volunteers.
 
 This repository was launched to extend the learning to you!
 
