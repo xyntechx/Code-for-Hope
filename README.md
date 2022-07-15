@@ -1,5 +1,5 @@
 # Code for Hope
-A self-initiated service-learning project created by myself and two other schoolmates, Code for Hope was started because we wanted to create a fair playing field independent of socio-economic status for all students, ultimately tackling income inequality. As programming is a relevant and important skill in today's digital era, we hope that by introducing programming to young students, they will be equipped with the useful skill of programming and thus be better prepared for the future! In its 2021-2022 run, Code for Hope taught 200 students, collaborated with 14 CDAC centres, and recruited 25 volunteers.
+Code for Hope is a self-initiated service-learning project created by me and two other schoolmates. We initiated this project to teach underprivileged students Python fundamentals as programming is a highly relevant and sought-after skill in today's digital era. In doing so, we hoped to create a fair playing field independent of socio-economic status for all, driven by the ultimate aim of alleviating income inequality. In its pioneering 2021-2022 run, Code for Hope taught 200 students, collaborated with 14 CDAC centres, and recruited 25 volunteers.
 
 This repository was launched to extend the learning to you!
 
